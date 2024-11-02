@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Appoinment App</string>
+    <string name="add_appointment">Add Appointment</string>
+    <string name="your_appointments">Your Appointments</string>
+    <string name="add_new_appointment">Add New Appointment</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="location">Location</string>
+    <string name="save_appointment">Save Appointment</string>
+    <string name="error_fill_required_fields">Please fill in all required fields.</string>
+    <string name="upcoming_appointment">Upcoming Appointment</string>
+    <string name="appointment_scheduled">You have an appointment scheduled in 24 hours.</string>
+    <string name="delete_appointment">Delete Appointment</string>
+</resources>
